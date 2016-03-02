@@ -1,0 +1,30 @@
+C:\Users\WeCanCodeIT\Documents\Temp Afghan App\Week8ProjectDay\Week8ProjectDay\bin\Debug\Week8ProjectDay.exe.config
+C:\Users\WeCanCodeIT\Documents\Temp Afghan App\Week8ProjectDay\Week8ProjectDay\bin\Debug\Week8ProjectDay.exe
+C:\Users\WeCanCodeIT\Documents\Temp Afghan App\Week8ProjectDay\Week8ProjectDay\bin\Debug\Week8ProjectDay.pdb
+C:\Users\WeCanCodeIT\Documents\Temp Afghan App\Week8ProjectDay\Week8ProjectDay\obj\Debug\Week8ProjectDay.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Temp Afghan App\Week8ProjectDay\Week8ProjectDay\obj\Debug\Week8ProjectDay.exe
+C:\Users\WeCanCodeIT\Documents\Temp Afghan App\Week8ProjectDay\Week8ProjectDay\obj\Debug\Week8ProjectDay.pdb
+C:\Users\WeCanCodeIT\Documents\Week 8\Week8ProjectDay\Week8ProjectDay\bin\Debug\Week8ProjectDay.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 8\Week8ProjectDay\Week8ProjectDay\obj\Debug\Week8ProjectDay.exe
+C:\Users\WeCanCodeIT\Documents\Week 8\Week8ProjectDay\Week8ProjectDay\obj\Debug\Week8ProjectDay.pdb
+C:\Users\WeCanCodeIT\Documents\Week 8\Week8ProjectDay\Week8ProjectDay\bin\Debug\Week8ProjectDay.exe
+C:\Users\WeCanCodeIT\Documents\Week 8\Week8ProjectDay\Week8ProjectDay\bin\Debug\Week8ProjectDay.pdb
+C:\Users\WeCanCodeIT\Documents\Week 8\Week8ProjectDay\Week8ProjectDay\obj\Debug\Week8ProjectDay.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
+C:\Users\WeCanCodeIT\Documents\Week8\Week 8\Week8ProjectDay\Week8ProjectDay\bin\Debug\Week8ProjectDay.exe.config
+C:\Users\WeCanCodeIT\Documents\Week8\Week 8\Week8ProjectDay\Week8ProjectDay\obj\Debug\Week8ProjectDay.exe
+C:\Users\WeCanCodeIT\Documents\Week8\Week 8\Week8ProjectDay\Week8ProjectDay\obj\Debug\Week8ProjectDay.pdb
+=======
+C:\Users\Yankri\Documents\WCCI Bootcamp\Week8\Week 8\Week8ProjectDay\Week8ProjectDay\bin\Debug\Week8ProjectDay.exe.config
+C:\Users\Yankri\Documents\WCCI Bootcamp\Week8\Week 8\Week8ProjectDay\Week8ProjectDay\obj\Debug\Week8ProjectDay.exe
+C:\Users\Yankri\Documents\WCCI Bootcamp\Week8\Week 8\Week8ProjectDay\Week8ProjectDay\obj\Debug\Week8ProjectDay.pdb
+C:\Users\Yankri\Documents\WCCI Bootcamp\Week8\Week 8\Week8ProjectDay\Week8ProjectDay\bin\Debug\Week8ProjectDay.exe
+C:\Users\Yankri\Documents\WCCI Bootcamp\Week8\Week 8\Week8ProjectDay\Week8ProjectDay\bin\Debug\Week8ProjectDay.pdb
+C:\Users\Yankri\Documents\WCCI Bootcamp\Week8\Week 8\Week8ProjectDay\Week8ProjectDay\obj\Debug\Week8ProjectDay.csprojResolveAssemblyReference.cache
+>>>>>>> origin/master
+C:\Users\WeCanCodeIT\Documents\Week8\Week 8\Week8ProjectDay\Week8ProjectDay\bin\Debug\Week8ProjectDay.exe
+C:\Users\WeCanCodeIT\Documents\Week8\Week 8\Week8ProjectDay\Week8ProjectDay\bin\Debug\Week8ProjectDay.pdb
+C:\Users\WeCanCodeIT\Documents\Week8\Week 8\Week8ProjectDay\Week8ProjectDay\obj\Debug\Week8ProjectDay.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Week9\Week9ProjectDays\Week8ProjectDay\bin\Debug\Week8ProjectDay.exe.config
+C:\Users\WeCanCodeIT\Documents\Week9\Week9ProjectDays\Week8ProjectDay\obj\Debug\Week8ProjectDay.exe
+C:\Users\WeCanCodeIT\Documents\Week9\Week9ProjectDays\Week8ProjectDay\obj\Debug\Week8ProjectDay.pdb
