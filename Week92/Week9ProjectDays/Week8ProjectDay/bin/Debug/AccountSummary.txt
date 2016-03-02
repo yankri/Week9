@@ -1,8 +1,0 @@
-Account Summary
-
-Account Holder: Sam Winchester
-
-Account Number: 0
-
-Date/Time		Type	Amount	Current Balance
-

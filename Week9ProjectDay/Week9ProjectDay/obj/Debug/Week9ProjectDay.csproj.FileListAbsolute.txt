@@ -1,0 +1,12 @@
+C:\Users\WeCanCodeIT\Documents\Week9\Week9ProjectDay\Week9ProjectDay\bin\Debug\Week9ProjectDay.exe.config
+C:\Users\WeCanCodeIT\Documents\Week9\Week92\Week9ProjectDay\Week9ProjectDay\bin\Debug\Week9ProjectDay.exe.config
+C:\Users\WeCanCodeIT\Documents\Week9\Week92\Week9ProjectDay\Week9ProjectDay\bin\Debug\Week9ProjectDay.exe
+C:\Users\WeCanCodeIT\Documents\Week9\Week92\Week9ProjectDay\Week9ProjectDay\bin\Debug\Week9ProjectDay.pdb
+C:\Users\WeCanCodeIT\Documents\Week9\Week92\Week9ProjectDay\Week9ProjectDay\obj\Debug\Week9ProjectDay.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Week9\Week92\Week9ProjectDay\Week9ProjectDay\obj\Debug\Week9ProjectDay.exe
+C:\Users\WeCanCodeIT\Documents\Week9\Week92\Week9ProjectDay\Week9ProjectDay\obj\Debug\Week9ProjectDay.pdb
+C:\Users\WeCanCodeIT\Documents\Week9\Week9ProjectDay\Week9ProjectDay\obj\Debug\Week9ProjectDay.exe
+C:\Users\WeCanCodeIT\Documents\Week9\Week9ProjectDay\Week9ProjectDay\obj\Debug\Week9ProjectDay.pdb
+C:\Users\WeCanCodeIT\Documents\Week9\Week9ProjectDay\Week9ProjectDay\bin\Debug\Week9ProjectDay.exe
+C:\Users\WeCanCodeIT\Documents\Week9\Week9ProjectDay\Week9ProjectDay\bin\Debug\Week9ProjectDay.pdb
+C:\Users\WeCanCodeIT\Documents\Week9\Week9ProjectDay\Week9ProjectDay\obj\Debug\Week9ProjectDay.csprojResolveAssemblyReference.cache
