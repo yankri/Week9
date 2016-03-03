@@ -2,9 +2,11 @@ Account Summary
 
 Account Holder: Sam Winchester
 
-Account Number: 519635-00
+Account Number: 838183-00
 
 Date/Time		Type	Amount	Current Balance
 
-3/2/2016 5:40:57 PM	 + 	34.56	1534.56	Checking Account
+3/2/2016 8:08:34 PM	 + 	45.00	1545.00	Checking Account
+
+3/2/2016 8:08:46 PM	 - 	12.00	1533.00	Checking Account
 

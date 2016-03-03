@@ -17,7 +17,7 @@ namespace Week9ProjectDay
         public string CheckingFile { get; set; }
         public string SavingsFile { get; set; }
         public string ReserveFile { get; set; }
-        public static List<string> AllAccountsTransactions { get; set; }
+        public List<string> AllAccountsTransactions { get; set; }
 
         public Accounts ()
         {

@@ -49,7 +49,7 @@ namespace Week9ProjectDay
             return sb.ToString();
         }
 
-        public void CADeposit() //this method completes the deposit transaction, saving the information to a list. 
+        public void CADeposit(List<string> AllAccountsTransactions) //this method completes the deposit transaction, saving the information to a list. 
         {
             decimal amount;
 
@@ -67,7 +67,7 @@ namespace Week9ProjectDay
                     string file = CADepositLineMaker(amount, totalToPrint);
 
                     CheckingTransactions.Add(file);
-                    Accounts.AllAccountsTransactions.Add(file);
+                    AllAccountsTransactions.Add(file);
                     Console.WriteLine("The amount of $" + amount + " has been deposited in your checking account. \nNew balance: $" + CheckingBalance);
                     Console.ReadKey();
                     break;
@@ -101,7 +101,7 @@ namespace Week9ProjectDay
             return sb.ToString();
         }
 
-        public void CAWithdraw() //this method completes the deposit transaction, saving the information to a list. 
+        public void CAWithdraw(List<string> AllAccountsTransactions) //this method completes the deposit transaction, saving the information to a list. 
         {
             decimal amount;
 
@@ -120,7 +120,7 @@ namespace Week9ProjectDay
                     string file = CAWithdrawLineMaker(amount, totalToPrint);
 
                     CheckingTransactions.Add(file);
-                    Accounts.AllAccountsTransactions.Add(file);
+                    AllAccountsTransactions.Add(file);
                     Console.WriteLine("The amount of $" + amount + " has been withdrawn from your checking account. \nNew balance: $" + CheckingBalance);
                     Console.ReadKey();
                     break;

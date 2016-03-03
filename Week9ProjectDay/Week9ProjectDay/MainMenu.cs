@@ -35,6 +35,7 @@ namespace Week9ProjectDay
                 }
             }
         }
+
         public void PrintClientInfo(Clients client, string Cnum, string Rnum, string Snum)
         {
             client.PrintClientInfo();
@@ -95,7 +96,7 @@ namespace Week9ProjectDay
             }
         }
 
-        public void DepositMenu(ReserveAccount RA, CheckingAccount CA, SavingsAccount SA)
+        public void DepositMenu(ReserveAccount RA, CheckingAccount CA, SavingsAccount SA, Accounts account)
         {
             while (true)
             {
@@ -118,17 +119,17 @@ namespace Week9ProjectDay
                     case "A":
                         Console.WriteLine("**Checking Account Deposit**");
                         Console.WriteLine("Checking Account Number: " + CA.CAcctNum);
-                        CA.CADeposit();
+                        CA.CADeposit(account.AllAccountsTransactions);
                         return;
                     case "B":
                         Console.WriteLine("**Savings Account Deposit**");
                         Console.WriteLine("Savings Account Number: " + SA.SAcctNum);
-                        SA.SADeposit();
+                        SA.SADeposit(account.AllAccountsTransactions);
                         return;
                     case "C":
                         Console.WriteLine("**Reserve Account Deposit**");
                         Console.WriteLine("Reserve Account Number: " + RA.RAcctNum);
-                        RA.RADeposit();
+                        RA.RADeposit(account.AllAccountsTransactions);
                         return;
                     default:
                         Console.WriteLine("Please select an account or enter quit to return to the main menu.");
@@ -137,7 +138,7 @@ namespace Week9ProjectDay
             }
         }
 
-        public void WithdrawMenu(ReserveAccount RA, CheckingAccount CA, SavingsAccount SA)
+        public void WithdrawMenu(ReserveAccount RA, CheckingAccount CA, SavingsAccount SA, Accounts account)
         {
             while (true)
             {
@@ -160,17 +161,17 @@ namespace Week9ProjectDay
                     case "A":
                         Console.WriteLine("**Checking Account Withdrawal**");
                         Console.WriteLine("Checking Account Number: " + CA.CAcctNum);
-                        CA.CAWithdraw();
+                        CA.CAWithdraw(account.AllAccountsTransactions);
                         return;
                     case "B":
                         Console.WriteLine("**Savings Account Withdrawal**");
                         Console.WriteLine("Savings Account Number: " + SA.SAcctNum);
-                        SA.SAWithdraw();
+                        SA.SAWithdraw(account.AllAccountsTransactions);
                         return;
                     case "C":
                         Console.WriteLine("**Reserve Account Withdrawal**");
                         Console.WriteLine("Reserve Account Number: " + RA.RAcctNum);
-                        RA.RAWithdraw();
+                        RA.RAWithdraw(account.AllAccountsTransactions);
                         return;
                     default:
                         Console.WriteLine("Please select an account or enter quit to return to the main menu.");
@@ -210,16 +211,17 @@ namespace Week9ProjectDay
                             break;
                         case 3:
                             //deposit
-                            DepositMenu(RA, CA, SA);
+                            DepositMenu(RA, CA, SA, account);
                             break;
                         case 4:
                             //withdraw
-                            WithdrawMenu(RA, CA, SA);
+                            WithdrawMenu(RA, CA, SA, account);
                             break;
                         case 5:
                             Console.Clear();
                             ClosingImage();
                             Console.WriteLine("\nQuitting...");
+                            Console.ReadKey();
                             close = true;
                             break;
                         default:

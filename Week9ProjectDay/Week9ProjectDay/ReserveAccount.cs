@@ -49,7 +49,7 @@ namespace Week9ProjectDay
             return sb.ToString();
         }
 
-        public void RADeposit() //this method completes the deposit transaction, saving the information to a list. 
+        public void RADeposit(List<string> AllAccountsTransactions) //this method completes the deposit transaction, saving the information to a list. 
         {
             decimal amount;
 
@@ -67,7 +67,7 @@ namespace Week9ProjectDay
                     string file = RADepositLineMaker(amount, totalToPrint);
 
                     ReserveTransactions.Add(file);
-                    Accounts.AllAccountsTransactions.Add(file);
+                    AllAccountsTransactions.Add(file);
                     Console.WriteLine("The amount of $" + amount + " has been deposited in your reserve account. \nNew balance: $" + ReserveBalance);
                     Console.ReadKey();
                     break;
@@ -99,7 +99,7 @@ namespace Week9ProjectDay
             return sb.ToString();
         }
 
-        public void RAWithdraw() //this method completes the deposit transaction, saving the information to a list. 
+        public void RAWithdraw(List<string> AllAccountsTransactions) //this method completes the deposit transaction, saving the information to a list. 
         {
             decimal amount;
 
@@ -118,7 +118,7 @@ namespace Week9ProjectDay
                     string file = RAWithdrawLineMaker(amount, totalToPrint);
 
                     ReserveTransactions.Add(file);
-                    Accounts.AllAccountsTransactions.Add(file);
+                    AllAccountsTransactions.Add(file);
                     Console.WriteLine("The amount of $" + amount + " has been withdrawn from your reserve account. \nNew balance: $" + ReserveBalance);
                     Console.ReadKey();
                     break;
