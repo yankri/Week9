@@ -26,10 +26,5 @@ namespace Presentation
         {
             Console.WriteLine("Take out some money!");
         }
-
-        public void FileWriter()
-        {
-            Console.WriteLine("write that file");
-        }
     }
 }

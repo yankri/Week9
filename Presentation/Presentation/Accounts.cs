@@ -11,8 +11,5 @@ namespace Presentation
         void Deposit();
 
         void Withdraw();
-
-        void FileWriter();
-
     }
 }
