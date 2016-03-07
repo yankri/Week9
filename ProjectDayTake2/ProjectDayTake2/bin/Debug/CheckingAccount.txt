@@ -1,0 +1,12 @@
+Savings Account Summary
+
+Account Holder: Sam Winchester
+
+Account Number: 942626
+
+Date/Time		Type	Amount	Current Balance
+
+3/6/2016 11:31:17 PM	 + 	23.00	1523.00
+
+3/6/2016 11:31:44 PM	 - 	123.00	1400.00
+
