@@ -19,9 +19,5 @@ namespace ProjectDayTake2
         void FileWriter(string filename);
 
         string FileHeader();
-
-
-
-
     }
 }
